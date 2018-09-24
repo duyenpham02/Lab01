@@ -89,3 +89,7 @@ void extractInfo(ifstream& inFile, int *num_count, double first_pair[], double l
 	}
 }
 
+
+// num1.txt 
+
+
